@@ -1,4 +1,4 @@
-# Fermi Paradoxa and Aurora Effect
+# Fermi Paradox and Aurora Effect
 
 Implementación por [Alejandro Morales](mailto:ja.moralesv@hotmail.com)
 
