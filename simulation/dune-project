@@ -5,9 +5,9 @@
 (generate_opam_files true)
 
 (source
- (github username/reponame))
+ (github jamoralesva/fermi_paradox_and_aurora_effect ))
 
-(authors "Author Name")
+(authors "Alejandro Morales")
 
 (maintainers "Maintainer Name")
 
@@ -17,8 +17,8 @@
 
 (package
  (name simulation)
- (synopsis "A short synopsis")
- (description "A longer description")
+ (synopsis "Este repositorio muestra una implementación en OCaml del paper https://arxiv.org/abs/1902.04450")
+ (description "Este repositorio muestra una implementación en OCaml del paper https://arxiv.org/abs/1902.04450")
  (depends ocaml dune)
  (tags
   (topics "to describe" your project)))
